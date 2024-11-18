@@ -1,0 +1,4 @@
+pip-installable libraries that are required to run this project:
+
+- blessed
+- pytest (for the test_project file)
